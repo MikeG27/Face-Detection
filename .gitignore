@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 #output directory
-output/
+output/*.png
 
 .idea/
